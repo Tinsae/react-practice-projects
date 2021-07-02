@@ -1,0 +1,8 @@
+.error {
+  padding: 5px auto 5px;
+}
+
+.error p {
+  font-size: 4rem;
+  color: red;
+}
